@@ -1,3 +1,4 @@
+//Teste
 programa {
   funcao inicio() {
     real ponto
